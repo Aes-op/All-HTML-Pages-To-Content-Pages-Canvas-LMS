@@ -7,7 +7,7 @@ WARNINGS: {There are required non-standard python modules for this script that a
 This script is provided as is and there is no guarantee of it working correctly with Canvas as updates are released. Always test it on a test version of your Canvas instance to make sure that the script still functions correctly.}
 
 
-The flow this script is as follows:
+The flow of this script is as follows:
 
 1. All linked HTML pages in the Canvas course are converted to content pages
 2. All linked HTML pages are replaced in the course with the equivalent content pages
